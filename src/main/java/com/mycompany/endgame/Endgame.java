@@ -23,7 +23,6 @@ public class Endgame {
             personaje.atacar();
             
             //método específico de avenger
-            //de donde heredo, ob
             ((Avenger)ironMan).reunirse();
             //ejemplo método específico de thanos
             thanos.chasquearDedos();
